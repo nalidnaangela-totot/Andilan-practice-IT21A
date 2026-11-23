@@ -1,5 +1,0 @@
-polymorphismDemo.Teacher
-polymorphismDemo.Janitor
-polymorphismDemo.SchoolEmployee
-polymorphismDemo.polymorphismDemo
-polymorphismDemo.SecurityGuard

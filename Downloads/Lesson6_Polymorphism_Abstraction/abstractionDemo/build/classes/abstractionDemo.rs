@@ -1,4 +1,0 @@
-Appliance
-ElectricFan
-RiceCooker
-abstractionDemo
